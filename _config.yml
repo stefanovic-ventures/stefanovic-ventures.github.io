@@ -1,0 +1,12 @@
+title: Stefanovic Ventures
+email: bojan@stefanovic.ventures
+description: Bojan's private company's website.
+url: "https://stefanovic.ventures"
+twitter_username: bojanstef
+github_username:  bojanstef
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+    - jekyll-feed
